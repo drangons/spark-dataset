@@ -1,4 +1,4 @@
-package com.github.dongjinleekr.spark
+package com.github.dongjinleekr.spark.dataset
 
 import org.scalatest.FunSuite
 import com.holdenkarau.spark.testing.{RDDComparisons, SharedSparkContext}
