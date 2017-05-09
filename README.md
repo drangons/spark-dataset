@@ -37,5 +37,6 @@ ds.printSchema()
 
 ## Supported Datasets
 
+- [Iris](https://www.kaggle.com/uciml/iris)
 - [Titanic Survivors](https://www.kaggle.com/c/titanic)
 
